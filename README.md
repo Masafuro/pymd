@@ -7,7 +7,7 @@ input.md:変換するファイル
 output.md:出力するファイル
 
 ## 構文
-'''md
+'''python
 
 {%py
 # pythonを書くところ
